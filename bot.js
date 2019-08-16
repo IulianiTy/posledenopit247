@@ -17,5 +17,3 @@ process.on('message', function(content) {
 });
 
 }
-
-bot.login(proces.env.token);
